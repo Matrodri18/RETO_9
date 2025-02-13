@@ -15,7 +15,7 @@ Este es el algoritmo de ordenamiento más simple, dado que intercambia de forma 
 - Finalmente, los elementos restantes se pueden comparar entre si, en caso tal de que el elemento más grande se encuentre antes que el elemento más pequeño, intercambian su posición, de esta manera, el elemento más grande quedara en su posición 
   correcta.
 
- ### Ventaja
+ ### Ventajas
   - Es un metodo facíl de entender y aplicar.
   - No requiere de memoria adicional.
   - Es un algoridmo de ordenación estable, lo que se refiere a que los elementos con el mismo valor mantendran 
