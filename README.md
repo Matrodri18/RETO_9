@@ -6,19 +6,19 @@ Los algoritmos de clasificación son técnicas que disponen los elementos de una
 Este es el algoritmo de ordenamiento más simple, dado que intercambia de forma repetida los elementos adyacentes en caso de que se encuentren desordenados. Sin embargo, no es el algoritmo más eficiente cuando se trata de grandes conjuntos de datos, ya que su complejidad suele ser muy alta.
 
 ### ¿Cómo funciona?
- Inicialmente se ordena el conjunto de datos, seleccionando el elemento más grande, para posteriormente ubicarlo 
+- Inicialmente se ordena el conjunto de datos, seleccionando el elemento más grande, para posteriormente ubicarlo 
  en la ultima posición, repetidamente, busca al segundo elemento más grande y procede a ubicarlo de la misma 
  manera en la ultima posición disponible.
 
- En cada revisión, se procesan los elementos que aun no se han ubicado correctamente. Teniendo encuenta que       
+- En cada revisión, se procesan los elementos que aun no se han ubicado correctamente. Teniendo encuenta que       
  despues de x revisiones, y elementos fueron ubicados debidamente en las ultimas z posiciones.
+- Finalmente, los elementos restantes se pueden comparar entre si, en caso tal de que el elemento más grande se encuentre antes que el elemento más pequeño, intercambian su posición, de esta manera, el elemento más grande quedara en su posición 
+  correcta.
 
- Finalmente, los elementos restantes se pueden comparar entre si, en caso tal de que el elemento más grande se encuentre antes que el elemento más pequeño, intercambian su posición, de esta manera, el elemento más grande quedara en su posición correcta.
-
- ### Ventajas
-  -Es un metodo facíl de entender y aplicar.
-  -No requiere de memoria adicional
-  -Es un algoridmo de ordenación estable, lo que se refiere a que los elementos con el mismo valor mantendran 
+ ### Ventaja
+  - Es un metodo facíl de entender y aplicar.
+  - No requiere de memoria adicional.
+  - Es un algoridmo de ordenación estable, lo que se refiere a que los elementos con el mismo valor mantendran 
    un orden relativo a la hora de ubicarlos.
 
  ### Desventajas
