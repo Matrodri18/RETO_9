@@ -1,7 +1,7 @@
 # RETO_9
 # reto_9
 ## Que son los algoritmos sorting?
-Los algoritmos de sorting (ordenamiento) son métodos que organizan los elementos de una lista o arreglo en un orden específico, generalmente ascendente o descendente. Son fundamentales en la informática porque muchas tareas, como la búsqueda eficiente de datos o la optimización de recursos, dependen de listas ordenadas.
+Los algoritmos de clasificación son técnicas que disponen los elementos de una lista o arreglo en un orden determinado, ya sea ascendente o descendente. Son esenciales en la informática porque numerosas tareas, como la búsqueda rápida de datos o la optimización de recursos, requieren listas ordenadas.
 ## Tipos de algoritmos de ordenamiento:
 ### Algoritmos de Ordenamiento Básicos (O(n²))
 #### Son sencillos de entender e implementar, pero no son eficientes para grandes volúmenes de datos.
